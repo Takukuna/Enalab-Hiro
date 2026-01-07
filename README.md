@@ -1,15 +1,15 @@
-## ✍🏻 **Autor**
+## ✍🏻 **Author**
 
 ### Nome: Gabriel Coelho dos Santos
 ### Idade: 16 anos
 ### Localidade: Algodão de Jandaíra, PB 
 
-## 🪪 **Ocupação**
+## 🪪 **Occupation**
 
 ### Estudante do Ensino médio no segundo ano
 ### Estudante de programação solo
 
-## 📝 **Projetos**
+## 📝 **Projects**
 
 ### Nenhum projeto sendo feito ou trabalhado(temporário)
 
