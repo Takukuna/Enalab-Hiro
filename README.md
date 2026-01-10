@@ -1,4 +1,4 @@
-# 👨‍💻 Gabriel Coelho dos Santos
+# 👨‍💻 Gabriel Coelho dos Santos (Takukuna)
 
 ## ✍🏻 About Me
 
