@@ -1,4 +1,4 @@
-# In these topics I will talk what I understood and did each day of Sprint - 0
+# In these topics I will talk what I understood and did each day of: (Sprint - 0)
 
 ## Day 1 - VSCode
 
