@@ -9,5 +9,6 @@
 ## **Week 1** - Wednesday
 - ### Today I finished the "Diagram" about SDLC and put the link to it here (at the end), and I hope to be able to study what I couldn't yesterday and what I'm going to study today. , I also studied about Requirements Analysis which I will talk to and do the task (Day 4) tomorrow. [https://excalidraw.com/#json=_bTczZBhJ_JycwjU1SVam,vCCSkRj8qEzyRAreIyrNLQ]
   
-## **Week 1** -
+## **Week 1** - Thuersday 
+- ### 
  
