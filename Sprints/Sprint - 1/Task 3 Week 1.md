@@ -1,7 +1,9 @@
-## **In this file I will talk about the three User Stories as requested in the Task of day 4.**
+**In this file, I will address the three User Stories requested in the Day 4 Task.**
 
 ### *User Stories*:
 
-* ### As an EnaLabs student user, I would like to have an easier-to-read tab on GitHub, to improve my reading.
-* ### As a user, I would like to have a tab to answer our questions quickly, so it would help me in moments of doubt when I want to know something fast (Example: a bot).
-* ### I would also like more examples given in the Tasks to know if we are doing exactly what the Task wants, this would help guide us better.
+* ### Given EnaLabs student, when opening the Study tab, it should be easier to read on GitHub, thus improving my understanding.
+
+* ### Given EnaLabs user, when opening a Questions Answer tab, then answer the given questions.
+
+* ### Given EnaLabs user, when opening the "Sprint - Task" tab, then there should be more practical examples of the given Task.
