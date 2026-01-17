@@ -12,3 +12,5 @@
 ## **Week 1** - Thuersday 
 * ### On this day I studied about User Stories and understood what they are about, I also finished the Tasks for day 3 and day 4 and placed them in my GitHub repository.
  
+ ## **Week 1** - Friday
+ - ### Today I finished the Task Acceptance Criteria (Gherkin) and understood the subject, after which I put it in my Sprint -1 repository and updated other .md files.
