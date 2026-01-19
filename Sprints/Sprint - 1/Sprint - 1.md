@@ -14,3 +14,8 @@
  
  ## **Week 1** - Friday
  - ### Today I finished the Task Acceptance Criteria (Gherkin) and understood the subject, after which I put it in my Sprint -1 repository and updated other .md files.
+
+ # --------------------------------------------------------------
+
+ ## **Week 2** - Monday
+ - ### Today I studied the basics of HTTP, and I also completed the task that was requested in Sprint 1 - Week 2. I also added the requested screenshot to the daily check-in and updated the repository.
