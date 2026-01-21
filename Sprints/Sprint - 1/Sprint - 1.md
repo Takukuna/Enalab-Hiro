@@ -19,3 +19,10 @@
 
  ## **Week 2** - Monday
  - ### Today I studied the basics of HTTP, and I also completed the task that was requested in Sprint 1 - Week 2. I also added the requested screenshot to the daily check-in and updated the repository.
+
+## **Week 2** - Tuesday 
+- ### Today I'm studying .json and a bit of programming (as per the sprint), I'm trying to understand .json and complete the task requested in the sprint.
+
+## **Week 2** - Wednesday
+- ### Today I completed the task on .json files, and later I will study Introduction to Software Testing.
+
