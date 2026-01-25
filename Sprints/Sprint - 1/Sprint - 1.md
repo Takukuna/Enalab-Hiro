@@ -28,3 +28,6 @@
 
 ## **Week 2** - Thuerday
 - ### Today I studied Test Cases and understood how they work. I just need to apply more practice, because I improve better that way. I also completed the requested task.
+
+## **Week 2** - Friday 
+-  ### On that day, I reviewed a few things because I had already completed everything from the sprint.
