@@ -23,3 +23,4 @@ elif opçao =="4":
         print('Erro: Divisão por zero!!')
 else:
     print("Opção invalida!")
+2

@@ -8,3 +8,5 @@ elif Numero < 0:
     print('Numero Negativo')
 else:
     print('Numero Positivo')
+
+lista = ["1-(), 2- **, 3- *,/,//,%, 4- +,-"]
