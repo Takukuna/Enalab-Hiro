@@ -1,0 +1,5 @@
+#BAgui doido
+
+Int = int(input('Digiteu seu numero inteiro: '))
+Tabuada = [Int*1, Int*2, Int*3, Int*4, Int*5, Int*6, Int*7, Int*8, Int*9, Int*10]
+print(f'{Tabuada}')
